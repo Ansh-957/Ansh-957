@@ -1,7 +1,7 @@
 # Ansh
 **Computer Engineering @ University of Toronto** · Class of 2028
 
-Electrical Systems Designer on the [RSX Mars Rover](https://github.com/rsx-utoronto) design team. I work across the full hardware stack, from PCB layout and power systems to embedded firmware and FPGA logic. Currently seeking a Summer 2026 internship in aerospace or robotics.
+Electrical Systems Designer on the [RSX Mars Rover](https://github.com/rsx-utoronto) design team. I work across the full hardware stack, from PCB layout and power systems to embedded firmware and FPGA logic. Currently seeking a Summer 2026 internship.
 
 ---
 
