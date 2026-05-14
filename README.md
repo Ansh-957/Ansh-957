@@ -26,4 +26,4 @@ Electrical Systems Designer on the [RSX Mars Rover](https://github.com/rsx-utoro
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/ansh957) · [Email](mailto:ansh.shah957@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ansh957) · [Email](mailto:ansh.shah957@gmail.com)
